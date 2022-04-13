@@ -8,7 +8,7 @@
 
 [![GhostAdults's github stats](https://github-readme-stats.vercel.app/api?username=GhostAdults&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=GhostAdults&repo=blog)](https://github.com/GhostAdults/blog)
+<!-- [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=GhostAdults&repo=blog)](https://github.com/GhostAdults/blog) -->
 
 
 - 🔭 I’m currently working on vue&java
