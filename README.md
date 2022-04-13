@@ -1,6 +1,8 @@
 ### Stock9host ![](https://visitor-badge.laobi.icu/badge?page_id=GhostAdults.readme)
 
-崩れ世界，现实粉碎
+崩れ世界、现实粉碎
+
+这个世界上没有所谓的敌人，能战胜的只有自己，请相信自己我永远不会放弃。
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostAdults&layout=compact)
 
