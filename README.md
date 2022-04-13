@@ -1,6 +1,6 @@
 ### Stock9host ![](https://visitor-badge.laobi.icu/badge?page_id=GhostAdults.readme)
 
-崩れ世界，粉碎现实
+崩れ世界，现实粉碎
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostAdults&layout=compact)
 
