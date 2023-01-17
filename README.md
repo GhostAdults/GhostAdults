@@ -1,8 +1,8 @@
 ### Stock9host ![](https://visitor-badge.laobi.icu/badge?page_id=GhostAdults.readme)
 
-崩れ世界、现实粉碎
+<!-- 崩れ世界、现实粉碎
 
-この世界にはいわゆる敵はいません。勝てるのは自分だけです。Watashiは永遠にあなたを諦めないと信じてください。(zbs)
+この世界にはいわゆる敵はいません。勝てるのは自分だけです。Watashiは永遠にあなたを諦めないと信じてください。(zbs) -->
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostAdults&layout=compact&bg_color=62,39c5bb,E0C3FC&title_color=fff&text_color=fff)
 
