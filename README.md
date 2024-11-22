@@ -12,7 +12,7 @@
 
 
 - 🔭 I’m currently working on vue&java
-- 🌱 I’m currently learning Spring&js
+- 🌱 I’m currently learning ~~Spring&js~~ finally love Rust ！！
 <!--
 **GhostAdults/GhostAdults** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
