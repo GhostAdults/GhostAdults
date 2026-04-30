@@ -6,7 +6,7 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=GhostAdults&layout=compact&bg_color=62,39c5bb,E0C3FC&title_color=fff&text_color=fff)
 
-[![GhostAdults's github stats](https://github-readme-stats.vercel.app/api?username=GhostAdults&theme=&show_icons=true&bg_color=62,39c5bb,E0C3FC&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
+![GhostAdults's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhostAdults&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 <!-- [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=GhostAdults&repo=blog)](https://github.com/GhostAdults/blog) -->
 
