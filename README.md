@@ -10,9 +10,6 @@
 
 <!-- [![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=GhostAdults&repo=blog)](https://github.com/GhostAdults/blog) -->
 
-
-- 🔭 I’m currently working on vue&java
-- 🌱 I’m currently learning ~~Spring&js~~ finally Rust
 <!--
 **GhostAdults/GhostAdults** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
